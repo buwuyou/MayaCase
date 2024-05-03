@@ -7,3 +7,4 @@ This repository contains a jupyter notebook using rasterio, geopandas, geemap et
 - Accurate areal calculation from UTM projections
 - Time series visualisation
 - Aquaduct flood risk visualisation
+- Mangrove change mappings
